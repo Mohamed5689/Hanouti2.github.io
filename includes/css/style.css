@@ -1,0 +1,18 @@
+html{
+    height:100%;
+}
+.card{
+    border-radius: 0 !important;
+}
+.main{
+    height: 100% !important;
+}
+a:hover,
+a:active,
+a:focus,
+a:visited{
+    text-decoration: none !important;
+}
+#div{
+    top: 100px;
+  }
